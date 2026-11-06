@@ -1,0 +1,6 @@
+{
+  "name": "ATOZ RAJBARI",
+  "description": "ATOZ RAJBARI - Your Trusted Shopping Destination. Mobile-first ecommerce catalog powered by Blogger with instant WhatsApp, IMO, and Messenger ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
